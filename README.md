@@ -10,6 +10,7 @@ Ursarion is a terminal text RPG and Sandbox taking place in the Land of Ursarion
 Controls in Ursarion are simple. Numbers in green indicate that it will perform an action. Simply press the number corresponding to the action you want to do, then press ENTER to confirm your selection.
 
 ![Ursarion main menu demo-ing controls](https://github.com/GemYearInteractive/Ursarion/blob/main/Images/image_2022-01-25_142300.png?raw=true)
+>Ursarion main menu demo-ing controls.
 
 ## Code Side of Ursarion
 
