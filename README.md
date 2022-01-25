@@ -1,6 +1,6 @@
 ![Ursarion](https://github.com/GemYearInteractive/Ursarion/blob/main/Images/base_github.png?raw=true)
 
-# VERSION 0.1 PRE-ALPHA COMING SOON!
+# VERSION 0.1 PRE-ALPHA COMING SOON! INFO BELOW.
 
 ## What is Ur-Sar-E-On?
 Ursarion is a terminal text RPG and Sandbox taking place in the Land of Ursarion. Carve your own path in the land and/or follow the storyline to legend in Ursarion. Ursarion is akin to a digital "choose your own adventure book" with RPG elements and near-infinite possibilies. No need to turn to page x. 
